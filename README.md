@@ -56,3 +56,11 @@ As a result of your project, you need to prepare the following.
     * Generation and tuning of alternative models
     * Learning curve analysis
     * Performance and error analysis
+
+# References #
+
+Stack Overflow Developer Survey 2022. (2022, June 22). Stack Overflow. https://survey.stackoverflow.co/2022/
+
+Dataset can be downloaded from [here](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2022.zip) (also included here as [survey_results_public.csv](survey_results_public.csv)).
+
+All survey data from 2011 and beyond can be downloaded from [here](https://insights.stackoverflow.com/survey/).
