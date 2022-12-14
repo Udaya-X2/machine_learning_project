@@ -1,3 +1,55 @@
+# Installation Instructions #
+
+Software Requirements:
+* Optimized for computers with Intel-based processors (Intel is not needed, however).
+* Should be compatible with any Unix-based operating system, but oriented towards Windows.
+* If using Linux, make sure to use the command `pip3` instead of `pip` in the instructions below.
+
+Prerequsites:
+* [Python](https://www.python.org/downloads/) `>= 3.10`
+* [Jupyter](https://jupyter.org/install)
+* [Visual Studio Code](https://code.visualstudio.com/) (make sure to check off "Add to PATH")
+
+The following 4-minute tutorial can help with installing prerequisites: https://youtu.be/h1sAzPojKMg
+
+Once prerequisites are met, download this repository via:
+```
+git clone https://github.com/Udaya-X2/machine_learning_project
+```
+
+Change directories and install the required dependencies:
+```
+cd machine_learning_project
+pip install -r requirements.txt
+```
+
+Open Visual Studio Code in the directory:
+```
+code .
+```
+
+(If the above does not work, you can also open Visual Studio Code and navigate to `machine_learning_project` manually)
+
+![](assets/open_folder.png)
+
+Open `main.ipynb`:
+
+![](assets/explorer.png)
+
+Click "Run All":
+
+![](assets/run_all_1.png)
+
+Don't worry if you get an `ImportError` at first.
+
+![](assets/import_error.png)
+
+Select "Run All" again, and the code should work:
+
+![](assets/run_all_2.png)
+
+![](assets/run_all_3.png)
+
 # Project Guidelines #
 
 ## 1. Choose a classification problem ##
