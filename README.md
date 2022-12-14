@@ -9,6 +9,7 @@ Prerequsites:
 * [Python](https://www.python.org/downloads/) `>= 3.10`
 * [Jupyter](https://jupyter.org/install)
 * [Visual Studio Code](https://code.visualstudio.com/) (make sure to check off "Add to PATH")
+* [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 The following 4-minute tutorial can help with installing prerequisites: https://youtu.be/h1sAzPojKMg
 
